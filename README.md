@@ -29,3 +29,12 @@ This project demonstrates professional frontend fundamentals:
 - **Clean Code:** Adherence to DRY (Don't Repeat Yourself) principles.
 - **Accessibility:** Semantic HTML usage.
 - **Maintainability:** Separation of concerns between Logic (JS), Styling (CSS), and Structure (HTML).
+
+## 📸 Screenshots:
+
+<img width="1919" height="922" alt="kastamonu" src="https://github.com/user-attachments/assets/cfd3fda3-041a-4081-a2d9-670cc847999c" />
+
+<img width="1919" height="908" alt="istanbul" src="https://github.com/user-attachments/assets/ecd781fa-e1ca-48a7-91eb-c2fb135de37f" />
+
+
+
